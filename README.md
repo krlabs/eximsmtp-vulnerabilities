@@ -36,6 +36,7 @@
 - [Synacktiv. Scraps of Notes on Exploiting Exim Vulnerabilities](https://www.synacktiv.com/en/publications/scraps-of-notes-on-exploiting-exim-vulnerabilities.html)
 - [Youtube. SMTP Smuggling – Spoofing E-Mails Worldwide](https://www.youtube.com/watch?v=V8KPV96g1To)
 - [Youtube. Exim Remote Command Execution Vulnerability (CVE-2019-10149)](https://www.youtube.com/watch?v=v-s-3S3UD_k)
+- [Youtube. exim4 4.69 remote code execution](https://www.youtube.com/watch?v=DnSgOGIxjaQ)
 - [SEC Consult. SMTP Smuggling - Spoofing E-Mails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 - [SONIC WALL. SMTP Smuggling](https://www.sonicwall.com/blog/smtp-smuggling)
 - [CertNZ. Exim mail transfer agent (MTA) vulnerability being exploited](https://www.cert.govt.nz/advisories/exim-mail-transfer-agent-mta-vulnerability-being-exploited/)
