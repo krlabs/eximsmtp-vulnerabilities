@@ -43,3 +43,4 @@
 - [SHODAN Search Exim SMTP](https://www.shodan.io/search?query=%22ESMTP+Exim%22)
 - [Medium. Exim UAF Vulnerability Analysis (CVE-2017–16943)](https://medium.com/@knownsec404team/exim-uaf-vulnerability-analysis-cve-2017-16943-226daf1e4138)
 - [Medium. My PoC walk through for CVE-2018–6789](https://straightblast.medium.com/my-poc-walk-through-for-cve-2018-6789-2e402e4ff588)
+- [Choosing the Best MTA: Postfix vs Sendmail vs Exim: a Comprehensive Comparison](https://www.plesk.com/blog/various/postfix-vs-sendmail-vs-exim/)
